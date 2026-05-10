@@ -17,4 +17,4 @@ To maintain a structured environment, we follow specific naming conventions for 
 - **Research Project Deliverables** star with the '[Project Name]-deliverables' prefix.
 
 ---
-*For access to private repositories or collaboration inquiries, please contact Dimitrios Gonidakis.*
+*For access to private repositories or collaboration inquiries, please contact Dimitrios Gonidakis at dgonidakis@mail.ntua.gr.*
