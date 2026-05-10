@@ -13,8 +13,8 @@ To maintain a structured environment, we follow specific naming conventions for 
 - **Optimization projects** start with the `opt-` prefix (e.g., `opt-truss-design`).
 - **AI-related projects** start with the `ai-` prefix (e.g., `ai-seismic-prediction`).
 - **Core/Shared tools** start with the `core-` prefix.
-- **Research Project Tasks** star with the '[Project Name]-tasks' prefix.
-- **Research Project Deliverables** star with the '[Project Name]-deliverables' prefix.
+- **Research Project Tasks** starts with the '[Project Name]-tasks' prefix.
+- **Research Project Deliverables** starts with the '[Project Name]-deliverables' prefix.
 
 ---
 *For access to private repositories or collaboration inquiries, please contact Dimitrios Gonidakis at dgonidakis@mail.ntua.gr.*
