@@ -1,4 +1,4 @@
-# 🏛 LSAAR - Research Group of Prof. Nikos Lagaros
+# 🏛 VELTION - Research Group of Prof. Nikos Lagaros
 
 Welcome to the official code management space of our research group. 
 Our laboratory focuses on cutting-edge technology and computational methods in the following fields:
